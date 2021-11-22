@@ -1,0 +1,20 @@
+Large Movie Review Dataset v1.0
+
+Overview
+
+This dataset contains movie reviews along with their associated binary
+sentiment polarity labels. It is intended to serve as a benchmark for
+sentiment classification. This document outlines how the dataset was
+gathered, and how to use the files provided. 
+
+Dataset 
+
+The dataset contains 50,000 reviews split evenly into 25k train, 1250 for validation,
+and the rest 1250 for test. The overall distribution of labels is balanced (25k
+pos and 25k neg). 
+
+Files
+
+1. train.csv, used to train you model
+2. val.csv, used to validate your model and select the "winning" model
+3. test.csv, this file does not have label. You need use it as input (features), and make your predictions. 
