@@ -1,5 +1,1 @@
-{"name":"Michael"}
-{"name":"Andy", "age":30}
-{"name":"Justin", "age":19}
-{"name":"Anna", "age":25}
-{"name":"John", "age":41}
+{"name":"Michael"}, {"name":"Andy", "age":30}, {"name":"Justin", "age":19}, {"name":"Anna", "age":25}, {"name":"John", "age":41}
